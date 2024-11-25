@@ -16,7 +16,7 @@ const Banner = () => {
             transition={{ duration: 0.8, delay: 0.2, ease: "easeInOut" }}
             src={headphone4}
             alt=""
-            className="w-[300px]"
+            className="w-[400px]"
           />
         </div>
         {/* Banner Text */}
